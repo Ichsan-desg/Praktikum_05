@@ -1,0 +1,109 @@
+body, .container {
+    background-color: palevioletred;
+    font-family: monospace;
+}
+.form1 {
+    padding: 18px;
+    margin: 150px auto;
+    width: 200px;
+    background-color: blanchedalmond;
+    border-radius: 3px;
+}
+.owo {
+    background: skyblue;
+    color: whitesmoke;
+    border: 0;
+    padding: 5px 8px;
+}
+h1 {
+    text-align: center;
+    color: skyblue;
+}
+input {
+    border: 0;
+    background-color: floralwhite;
+    padding: 3px;
+}
+.form1 #user_error,
+.form1 #pass_error{
+    margin-top: 5px;
+    margin-bottom: 9px;
+    color: red;
+    display: none;
+}
+
+/*======================================================================================================================*/
+
+body {
+    background-color: violet;
+}
+.container22 {
+    background-color: wheat;
+    width: 400px;
+    height: 260px;
+    font-family: monospace;
+    margin: auto;
+}
+h1 {
+    text-align: center;
+    padding-top: 3px;
+    color: darksalmon;
+}
+.a1 {
+    padding-left: 110px;
+    font-weight: 600;
+    font-size: 12pt;
+    color:darksalmon;
+    text-decoration: none;
+}
+.a2 {
+    padding-left: 110px;
+    font-weight: 600;
+    font-size: 12pt;
+    color: darksalmon;
+    text-decoration: none;
+}
+.a3 {
+    padding-left: 110px;
+    font-weight: 600;
+    font-size: 12pt;
+    color: darksalmon;
+    text-decoration: none;
+}
+.a4 {
+    padding-left: 170px;
+    padding-top: 18px;
+}
+button {
+    background-color: darksalmon;
+    border-style: none;
+    color: ghostwhite;
+}
+input {
+    border-style: none;
+}
+select {
+    border-style: none;
+}
+/*==========================================================================================================*/
+
+fieldset {
+    height: 200px;
+    width: 380px;
+    margin-left: 50px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+.fieldset0 {
+    height: 20px;
+    width: 380px;
+    margin-left: 50px;
+    margin: auto;
+    background-color: blanchedalmond;
+}
+.input2 {
+    padding-right: 159px;
+}
+
+  
+  
